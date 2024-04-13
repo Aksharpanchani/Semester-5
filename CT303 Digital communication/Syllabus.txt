@@ -1,0 +1,5 @@
+1. Differential Pulse Code Modulation,
+2. Signal-Space Analysis.
+3. Random Processes.
+4. Transmission Over Band Limited Channel (ISI Avoidance)
+5. Time-Division Multiplexing.

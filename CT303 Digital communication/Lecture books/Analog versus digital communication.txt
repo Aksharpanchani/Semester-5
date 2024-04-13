@@ -1,0 +1,20 @@
+Analog versus digital communications (Advantages and Disadvantages), Analog and
+Digital Types of Communications.
+Sampling Process and Sampling Theorem.
+Quantization Process, Uniform and Nonuniform Quantization, Companding, μ-Law
+and A-Law.
+Encoding and Line Codes
+PCM System, Noise Considerations (Channel and Quantization Noise) of PCM.
+
+                                                                                                                        
+
+1. Introduction to Digital Communications (Analog and Digital Types of Communication, pages 21 to 23 of Simon Haykin's Book).
+2. Advantages of Advantages and Disadvantages of Digital Communications (ppt file of lectures, slide # 2, pages 282 and 283 of  B. P. Lathi's Book, pages 217 and 218 of  Simon Haykin's Book).
+3. Analog and Digital Pulse Modulation, Sampling Process, Sampling Theorem and Aliasing, Reconstruction Filter (pages 183 to 188 of  Simon Haykin's Book).
+
+4. PAM, PWM and PPM (page 188 to 193 of  Simon Haykin's Book).
+5. Uniform Quantization Process (pages 193 to 198 of  Simon Haykin's Book). 
+
+6. PCM Systems, Nonuniform Quantization, Encoding, Line Codes (pages 201 to 209 of  Simon Haykin's Book).
+7. Noise Considerations in PCM Systems (pages 209 and 210 of  Simon Haykin's Book).
+8. Time-Division Multiplexing (pages 211 to 214 of  Simon Haykin's Book, pages 288 to 293 of Dennis Roody's Book on Satellite Communications)

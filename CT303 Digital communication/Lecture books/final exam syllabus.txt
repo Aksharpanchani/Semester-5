@@ -1,0 +1,11 @@
+1. Matched Filter and Errors due to Noise from pages 248 to 259 of Simon Haykin's Book.
+2. Signal Space Analysis (from vector channel to Probability of Error) from pages 318 to 329 of Simon Haykin's Book.
+3. Passband Data Transmission (from introduction to DPSK, M-ary PSK and QAM) from pages 344 to 361 and 365 to 370 of Simon Haykin's Book.
+
+
+1.    Matched Filter and Error Rates Due to Noise and erfc 
+2.    Maximum Likelihood Decoding, Correlation Receiver and Probability of Error
+3.    Passband Data Transmission, BPSK, QPSK, QAM and M-ary PSK
+4.    ISI
+5.    Line Codes
+6.    PCM System
