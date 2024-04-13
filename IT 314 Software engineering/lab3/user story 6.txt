@@ -1,0 +1,11 @@
+user story 6
+user story 8
+user story 9
+
+Size -No
+S - 1
+L - 7
+M - 5
+XL - 4
+2XL - 1
+3XL - 1
