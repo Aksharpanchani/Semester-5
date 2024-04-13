@@ -1,0 +1,13 @@
+1. Introduction to RF (ppt file Introduction RF), 
+2. Impedance Matching (pages 118 to 121 of Book by Peter Rizzi),  George Kennedy Pages 206 to 210).
+Transmission Line and Smith Chart (pages 57 to 60, 69 to 91, 97 to 104 of Book by Peter Rizzi), ppt file on Standing Wave Patterns, pdf file on Smith Chart.
+
+3.Scattering Parameters (from pages 141 to 144 from Book on Microwave Das & Das and pages 168-169 and 541 to 545 from Peter Rizzi).
+
+4. Noise (Page-118 to 120, 130  to 133, 135-144 from Dennis and Roddy).
+
+
+Question 1 - RF Introduction, Impedance Matching
+Question 2 – Transmission Line and Smith Chart 
+Question 3- Scattering Parameters
+Question 4- Noise
